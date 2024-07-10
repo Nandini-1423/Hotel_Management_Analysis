@@ -6,7 +6,7 @@
 - [Tools and Libraries](#tools-and-libraries)
 - [Data Sources](#Data-Sources)
 - [Key Analysis Steps](#key-analysis-steps)
-- [Steps which are required for Data Analytics Projects:](#Steps-which-are-required-for-Data-Analytics-Projects:) 
+- [Steps which are required for Data Analytics Projects:](#steps-which-are-required-for-data-analytics-projects:) 
 
 
 
