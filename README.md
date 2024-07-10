@@ -3,8 +3,10 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Tools and Libraries](#Tools-and-Libraries)
-
+- [Tools and Libraries](#tools-and-libraries)
+- [Data Sources](#Data-Sources)
+- [Key Analysis Steps](#key-analysis-steps)
+- [Steps which are required for Data Analytics Projects:](#Steps-which-are-required-for-Data-Analytics-Projects:) 
 
 
 
@@ -18,7 +20,8 @@ Dataset :- Have you ever wondered when the best time of year to book a hotel roo
 
 This hotel booking dataset can help you explore those questions!
 <br>
-The primary dataset used for this analysis is the "hotel_bookings 2.csv" file , containing detailed information about hotel_management 
+
+ The primary dataset used for this analysis is the "hotel_bookings 2.csv" file , containing detailed information about hotel_management 
 
 ### Tools and Libraries
 
@@ -37,7 +40,7 @@ The primary dataset used for this analysis is the "hotel_bookings 2.csv" file , 
  - Present the data in terms of reports or dashboard using visualization.
 
 
-### Steps which are required for Data Analytics Projects: 
+### Steps which are required for Data Analytics Projects:
 
  - Buissness Problem
  - Explore Data
