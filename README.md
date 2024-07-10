@@ -2,7 +2,9 @@
 
 ## Table of Contents
 
--[Project Overview](#project-overview)
+- [Project Overview](#project-overview)
+- [Tools and Libraries](#Tools-and-Libraries)
+
 
 
 
@@ -17,4 +19,40 @@ Dataset :- Have you ever wondered when the best time of year to book a hotel roo
 This hotel booking dataset can help you explore those questions!
 <br>
 The primary dataset used for this analysis is the "hotel_bookings 2.csv" file , containing detailed information about hotel_management 
+
+### Tools and Libraries
+
+- Python: For data manipulation, analysis, and visualization.
+- Pandas: For data cleaning and exploratory analysis.
+- Matplotlib: For creating static visualizations and charts.
+- Seaborn: For statistical data visualization and enhanced graphical representations.
+- Jupyter Notebook: For interactive analysis and documentation.
+
+### Key Analysis Steps
+
+ - Create a Problem Statement.
+ - Identify the data you want to analyze.
+ - Explore and clean the data.
+ - Analyze the data to get useful insights.
+ - Present the data in terms of reports or dashboard using visualization.
+
+
+### Steps which are required for Data Analytics Projects: 
+
+ - Buissness Problem
+ - Explore Data
+ - Analyze and Visualize data
+ - Present in terms of report
+
+### Future Recommendations
+ - Predictive Analytics: Develop predictive models to forecast booking trends and optimize pricing strategies.
+ - Customer Segmentation: Conduct segmentation analysis to tailor marketing efforts and personalize guest experiences.
+ - Advanced Operational Analysis: Explore advanced techniques to further enhance operational efficiency and resource management.
+ - Integration with Real-time Data: Implement real-time data monitoring to make dynamic decisions based on current booking trends and operational 
+    metrics.
+
+### Contribution
+
+ 👍 Contributions are welcome! Please feel free to submit issues or pull requests to enhance the project.
+   
 
